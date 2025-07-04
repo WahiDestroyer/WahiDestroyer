@@ -23,6 +23,6 @@ I'm currently working and learning about react js
 [![](https://visitcount.itsvg.in/api?id=WahiDestroyer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/WahiDestroyer/WahiDestroyer/blob/output/github-contribution-grid-snake.svg) 
+
 
 </div>
