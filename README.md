@@ -12,7 +12,9 @@ I'm currently working and learning about react js
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=WahiDestroyer&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=WahiDestroyer&theme=blue-green&hide_border=false)<br/>
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WahiDestroyer&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
