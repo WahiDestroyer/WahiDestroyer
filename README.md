@@ -22,7 +22,8 @@ I'm currently working and learning about react js
 ---
 [![](https://visitcount.itsvg.in/api?id=WahiDestroyer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahiDestroyer&radius=16&hide_title=false&custom_title=Wahid's%_Profile&area=true&order=5&bg_color=24292e&color=33FF33&line=33FF33&point=33FF33&area_color=194D19&title_color=33FF33&hide_border=true" height="300" alt="activity-graph graph" />
+
 
 
 </div>
