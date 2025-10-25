@@ -1,6 +1,6 @@
 <div align="center">
   # 💫 About Me:
-I'm currently working and learning about react js
+I'm currently working and learning about Next js
 
 
 ## 🌐 Socials:
