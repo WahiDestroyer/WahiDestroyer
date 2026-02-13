@@ -1,9 +1,5 @@
 <div align="center">
-  # 💫 About Me:
-I'm currently working and learning about Next js
-<p>
-  setInterval(() => (document.querySelector(".time").innerText = new Date().toLocaleTimeString("en-BD", {hour12: true})), 1000);
-</p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PhA5gY2x) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/wahid.tahosin.laam/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wahidestroyer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wahid-tahosin-laam-003276305/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/laamwahidtahosin/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/wahidestroyer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/WahiDestroyer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laamwahidtahosin@gmail.com) 
